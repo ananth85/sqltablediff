@@ -25,7 +25,7 @@ namespace SqlTableDiff.Defaults {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("DbSvr")]
+        [global::System.Configuration.DefaultSettingValueAttribute("TestServer")]
         public string Server {
             get {
                 return ((string)(this["Server"]));
@@ -34,7 +34,7 @@ namespace SqlTableDiff.Defaults {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("DptsNet")]
+        [global::System.Configuration.DefaultSettingValueAttribute("DestDb")]
         public string DbName {
             get {
                 return ((string)(this["DbName"]));

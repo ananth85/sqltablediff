@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DefaultList" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">CCS_Default, CCS_Default_Group</Value>
+      <Value Profile="(Default)">Table1, Table2, Table3</Value>
     </Setting>
   </Settings>
 </SettingsFile>

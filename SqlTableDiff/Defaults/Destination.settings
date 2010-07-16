@@ -3,10 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="Server" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">DbSvr</Value>
+      <Value Profile="(Default)">TestServer</Value>
     </Setting>
     <Setting Name="DbName" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">DptsNet</Value>
+      <Value Profile="(Default)">DestDb</Value>
     </Setting>
     <Setting Name="DbSchema" Type="System.String" Scope="Application">
       <Value Profile="(Default)">dbo</Value>
