@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SqlTableDiff.Defaults" GeneratedClassName="Tables">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultList" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CCS_Default, CCS_Default_Group</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
