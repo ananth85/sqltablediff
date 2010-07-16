@@ -25,7 +25,7 @@ namespace SqlTableDiff.Defaults {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("CCS_Default, CCS_Default_Group")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Table1, Table2, Table3")]
         public string DefaultList {
             get {
                 return ((string)(this["DefaultList"]));
